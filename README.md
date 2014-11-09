@@ -25,3 +25,4 @@ Newtest1.2: change1
 Newtest1.2: change2
 
 1.1: c1
+1.1: c2
