@@ -7,3 +7,4 @@ Newtest: change2
 Newtest: change3
 
 Newtest1.2: change1
+Newtest1.2: change2
