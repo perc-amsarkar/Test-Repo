@@ -9,3 +9,5 @@ Change in child 1
 change in master
 
 more changes in master
+
+master changes
