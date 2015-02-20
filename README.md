@@ -26,3 +26,5 @@ Newtest1.2: change2
 
 1.1: c1
 dev: c1
+
+dev del
